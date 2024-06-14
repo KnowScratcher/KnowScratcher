@@ -1,6 +1,7 @@
 
+
+# 中文
 [Jump to English Introduction](#english)
-# 中文 
 # 你好， 我是 Know Scratcher! 👋
 我是一位開發者、學生，來自嘉義高中。
 
@@ -29,8 +30,9 @@
 感謝您閱讀. 讓我們一起探索這個美好的科技世界吧!
 <hr>
 
+
+# English
 [跳至中文介紹](#中文)
-# English 
 # Hi, I'm Know Scratcher! 👋
 I am a developer, and also a student from National Chiayi Senior High, Taiwan.
 
