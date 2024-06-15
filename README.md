@@ -1,4 +1,5 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time%20Since%202024/6/15-6%20hrs%200%20mins-blue)
+![views](https://komarev.com/ghpvc/?username=knowscratcher&color=brightgreen)
 
 ⭐ Data updated on `2024/6/15`
 ⭐ 資料於`2024/6/15`更新
@@ -34,6 +35,14 @@
 
 # ⌨️ 我的作業環境
 [![Editor](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
+
+# 其他
+
+<img src="https://wakatime.com/share/@3bed848b-ab70-463a-ade3-235f88526a6a/62be342e-7a2c-46b5-adef-00bb21fb09cd.svg" alt="coding activity" height="500px" />
+
+leetcode
+
+![leetcode](https://leetcode-stats-six.vercel.app/api?username=yianlee2008&theme=dark)
 
 感謝您閱讀. 讓我們一起探索這個美好的科技世界吧!
 <hr>
@@ -71,11 +80,17 @@ I am a developer and a student from National Chiayi Senior High, Taiwan.
 # ⌨️ I Code on
 [![Editor](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
 
+# Other
+
+<img src="https://wakatime.com/share/@3bed848b-ab70-463a-ade3-235f88526a6a/62be342e-7a2c-46b5-adef-00bb21fb09cd.svg" alt="coding activity" height="500px" />
+
+leetcode
+
+![leetcode](https://leetcode-stats-six.vercel.app/api?username=yianlee2008&theme=dark)
+
 Thanks for stopping by. Let's explore this wonderful technological world together!
 
-# Other 其他
 
-![code activity](https://wakatime.com/share/@3bed848b-ab70-463a-ade3-235f88526a6a/62be342e-7a2c-46b5-adef-00bb21fb09cd.svg)
 
 
 <!--
