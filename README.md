@@ -3,6 +3,8 @@
 ⭐ Data updated on `2024/6/15`
 ⭐ 資料於`2024/6/15`更新
 
+![code activity](https://wakatime.com/share/@3bed848b-ab70-463a-ade3-235f88526a6a/62be342e-7a2c-46b5-adef-00bb21fb09cd.svg)
+
 # 中文
 [Jump to English Introduction](#english)
 # 你好， 我是 Know Scratcher! 👋
