@@ -1,13 +1,20 @@
+![Code Time](http://img.shields.io/badge/Code%20Time%20Since%202024/6/15-6%20hrs%200%20mins-blue)
 
+⭐ data updated on `2024/6/15`
+⭐ 資料於`2024/6/15`更新
 
 # 中文
 [Jump to English Introduction](#english)
 # 你好， 我是 Know Scratcher! 👋
 我是一位開發者、學生，來自嘉義高中。
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=knowscratcher&theme=holi-theme)](https://git.io/streak-stats)
+
 ![my stats](https://github-readme-stats.vercel.app/api?username=knowscratcher&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![my lang](https://github-readme-stats.vercel.app/api/top-langs/?username=knowscratcher&layout=compact&theme=vue-dark&hide_border=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=knowscratcher&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 🚀 關於我
 - 🔭 正在開發 [TPSEM](https://github.com/KnowScratcher/TPSEM)
@@ -36,9 +43,13 @@
 # Hi, I'm Know Scratcher! 👋
 I am a developer, and also a student from National Chiayi Senior High, Taiwan.
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=knowscratcher&theme=holi-theme)](https://git.io/streak-stats)
+
 ![my stats](https://github-readme-stats.vercel.app/api?username=knowscratcher&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![my lang](https://github-readme-stats.vercel.app/api/top-langs/?username=knowscratcher&layout=compact&theme=vue-dark&hide_border=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=knowscratcher&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 🚀 About Me
 - 🔭 I’m currently working on [TPSEM](https://github.com/KnowScratcher/TPSEM)
