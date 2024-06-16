@@ -38,9 +38,11 @@
 
 # 其他
 
-<img src="https://wakatime.com/share/@3bed848b-ab70-463a-ade3-235f88526a6a/62be342e-7a2c-46b5-adef-00bb21fb09cd.svg" alt="coding activity" height="500px" />
+<img src="https://wakatime.com/share/@3bed848b-ab70-463a-ade3-235f88526a6a/07e91a06-4f19-4bdd-a5d4-3f61039c6025.svg" alt="coding activity" height="500px" />
 
-leetcode
+<img src="https://wakatime.com/share/@3bed848b-ab70-463a-ade3-235f88526a6a/7a37ee91-0230-416a-91c8-69eebf91df1c.svg" alt="coding activity" height="500px" />
+
+Leetcode
 
 ![leetcode](https://leetcode-stats-six.vercel.app/api?username=yianlee2008&theme=dark)
 
@@ -82,9 +84,11 @@ I am a developer and a student from National Chiayi Senior High, Taiwan.
 
 # Other
 
-<img src="https://wakatime.com/share/@3bed848b-ab70-463a-ade3-235f88526a6a/62be342e-7a2c-46b5-adef-00bb21fb09cd.svg" alt="coding activity" height="500px" />
+<img src="https://wakatime.com/share/@3bed848b-ab70-463a-ade3-235f88526a6a/07e91a06-4f19-4bdd-a5d4-3f61039c6025.svg" alt="coding activity" height="500px" />
 
-leetcode
+<img src="https://wakatime.com/share/@3bed848b-ab70-463a-ade3-235f88526a6a/7a37ee91-0230-416a-91c8-69eebf91df1c.svg" alt="coding activity" height="500px" />
+
+Leetcode
 
 ![leetcode](https://leetcode-stats-six.vercel.app/api?username=yianlee2008&theme=dark)
 
