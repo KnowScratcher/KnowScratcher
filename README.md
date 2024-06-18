@@ -9,7 +9,7 @@
 # 你好， 我是 Know Scratcher! 👋
 我是一位開發者、學生，來自嘉義高中。
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=knowscratcher&theme=holi-theme)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=knowscratcher&theme=holi-theme&ring=orange&fire=orange)](https://git.io/streak-stats)
 
 ![my stats](https://github-readme-stats.vercel.app/api?username=knowscratcher&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -55,7 +55,7 @@ Leetcode
 # Hi, I'm Know Scratcher! 👋
 I am a developer and a student from National Chiayi Senior High, Taiwan.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=knowscratcher&theme=holi-theme)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=knowscratcher&theme=holi-theme&ring=orange&fire=orange)](https://git.io/streak-stats)
 
 ![my stats](https://github-readme-stats.vercel.app/api?username=knowscratcher&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
