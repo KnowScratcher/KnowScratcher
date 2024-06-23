@@ -1,8 +1,8 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time%20Since%202024/6/15-22%20hrs%2044%20mins-blue)
 ![views](https://komarev.com/ghpvc/?username=knowscratcher&color=brightgreen)
 
-⭐ Data updated on `2024/6/16`
-⭐ 資料於`2024/6/16`更新
+⭐ Data updated on `2024/6/24`
+⭐ 資料於`2024/6/24`更新
 
 # 中文
 [Jump to English Introduction](#english)
