@@ -34,15 +34,15 @@ Code time since 2024/6/16
 
 # 其他<del>垃圾</del>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=knowscratcher&theme=holi-theme&ring=orange&fire=orange)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=knowscratcher&theme=holi-theme&ring=orange&fire=orange&locale=zh_Hant&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
-![my stats](https://github-readme-stats.vercel.app/api?username=knowscratcher&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![my stats](https://github-readme-stats.vercel.app/api?username=knowscratcher&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&locale=zh-tw)
 
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=KnowScratcher&layout=compact&langs_count=8&title_color=41b883&text_color=cccccc&icon_color=ff9900&bg_color=232f3e&hide_border=true)
+![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=KnowScratcher&layout=compact&langs_count=8&title_color=41b883&text_color=cccccc&icon_color=ff9900&bg_color=232f3e&hide_border=true&locale=zh-tw)
 
-![my lang](https://github-readme-stats.vercel.app/api/top-langs/?username=knowscratcher&layout=compact&theme=vue-dark&hide_border=true)
+![my lang](https://github-readme-stats.vercel.app/api/top-langs/?username=knowscratcher&layout=compact&theme=vue-dark&hide_border=true&locale=zh-tw)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=knowscratcher&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=knowscratcher&theme=darkhub&locale=zh-tw)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://wakatime.com/share/@3bed848b-ab70-463a-ade3-235f88526a6a/07e91a06-4f19-4bdd-a5d4-3f61039c6025.svg" alt="coding activity" height="500px" />
 
@@ -50,7 +50,7 @@ Code time since 2024/6/16
 
 Leetcode
 
-![leetcode](https://leetcode-stats-six.vercel.app/api?username=yianlee2008&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/yianlee2008?theme=dark&font=Cuprum&ext=activity)
 
 感謝您閱讀. 讓我們一起探索這個美好的科技世界吧!
 <hr>
@@ -60,14 +60,6 @@ Leetcode
 [跳至中文介紹](#中文)
 # Hi, I'm Know Scratcher! 👋
 I am a developer and a student from National Chiayi Senior High, Taiwan.
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=knowscratcher&theme=holi-theme&ring=orange&fire=orange)](https://git.io/streak-stats)
-
-![my stats](https://github-readme-stats.vercel.app/api?username=knowscratcher&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![my lang](https://github-readme-stats.vercel.app/api/top-langs/?username=knowscratcher&layout=compact&theme=vue-dark&hide_border=true)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=knowscratcher&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 🚀 About Me
 - 🔭 I’m currently working on [TPSEM](https://github.com/KnowScratcher/TPSEM).
@@ -88,7 +80,15 @@ I am a developer and a student from National Chiayi Senior High, Taiwan.
 # ⌨️ I Code on
 [![Editor](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
 
-# Other
+# Other <del>garbages</del>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=knowscratcher&theme=holi-theme&ring=orange&fire=orange)](https://git.io/streak-stats)
+
+![my stats](https://github-readme-stats.vercel.app/api?username=knowscratcher&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![my lang](https://github-readme-stats.vercel.app/api/top-langs/?username=knowscratcher&layout=compact&theme=vue-dark&hide_border=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=knowscratcher&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://wakatime.com/share/@3bed848b-ab70-463a-ade3-235f88526a6a/07e91a06-4f19-4bdd-a5d4-3f61039c6025.svg" alt="coding activity" height="500px" />
 
@@ -96,7 +96,7 @@ I am a developer and a student from National Chiayi Senior High, Taiwan.
 
 Leetcode
 
-![leetcode](https://leetcode-stats-six.vercel.app/api?username=yianlee2008&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/yianlee2008?theme=dark&font=Cuprum&ext=activity)
 
 Thanks for stopping by. Let's explore this wonderful technological world together!
 
