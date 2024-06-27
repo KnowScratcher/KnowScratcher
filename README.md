@@ -3,9 +3,9 @@
 
 [Jump to Repos](https://github.com/KnowScratcher?tab=repositories)
 
-[Jump to English Introduction](#english)
-
 [跳至中文介紹](#中文)
+
+[Jump to English Introduction](#english)
 <hr>
 
 Code time since 2024/6/16
