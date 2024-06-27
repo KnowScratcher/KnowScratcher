@@ -1,21 +1,17 @@
-![Code Time](http://img.shields.io/badge/Code%20Time%20Since%202024/6/15-22%20hrs%2044%20mins-blue)
-![views](https://komarev.com/ghpvc/?username=knowscratcher&color=brightgreen)
+Code time since 2024/6/16
 
-⭐ Data updated on `2024/6/24`
-⭐ 資料於`2024/6/24`更新
+<a href="https://wakatime.com/@knowscratcher" target="_blank">
+  <img src="https://wakatime.com/badge/user/3bed848b-ab70-463a-ade3-235f88526a6a.svg?style=for-the-badge"
+    alt="Code time since 2024/6/16"
+    title="Code time since 2024/6/16"/>
+</a>
+
+![views](https://komarev.com/ghpvc/?username=knowscratcher&color=brightgreen)
 
 # 中文
 [Jump to English Introduction](#english)
 # 你好， 我是 Know Scratcher! 👋
 我是一位開發者、學生，來自嘉義高中。
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=knowscratcher&theme=holi-theme&ring=orange&fire=orange)](https://git.io/streak-stats)
-
-![my stats](https://github-readme-stats.vercel.app/api?username=knowscratcher&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![my lang](https://github-readme-stats.vercel.app/api/top-langs/?username=knowscratcher&layout=compact&theme=vue-dark&hide_border=true)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=knowscratcher&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 🚀 關於我
 - 🔭 正在開發 [TPSEM](https://github.com/KnowScratcher/TPSEM)。
@@ -36,7 +32,17 @@
 # ⌨️ 我的作業環境
 [![Editor](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
 
-# 其他
+# 其他<del>垃圾</del>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=knowscratcher&theme=holi-theme&ring=orange&fire=orange)](https://git.io/streak-stats)
+
+![my stats](https://github-readme-stats.vercel.app/api?username=knowscratcher&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=KnowScratcher&layout=compact&langs_count=8&title_color=41b883&text_color=cccccc&icon_color=ff9900&bg_color=232f3e&hide_border=true)
+
+![my lang](https://github-readme-stats.vercel.app/api/top-langs/?username=knowscratcher&layout=compact&theme=vue-dark&hide_border=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=knowscratcher&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://wakatime.com/share/@3bed848b-ab70-463a-ade3-235f88526a6a/07e91a06-4f19-4bdd-a5d4-3f61039c6025.svg" alt="coding activity" height="500px" />
 
