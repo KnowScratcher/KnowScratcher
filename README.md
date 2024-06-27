@@ -1,6 +1,12 @@
+# 連結 Links
 [跳到我的專案](https://github.com/KnowScratcher?tab=repositories)
 
 [Jump to Repos](https://github.com/KnowScratcher?tab=repositories)
+
+[Jump to English Introduction](#english)
+
+[跳至中文介紹](#中文)
+<hr>
 
 Code time since 2024/6/16
 
@@ -11,9 +17,8 @@ Code time since 2024/6/16
 </a>
 
 ![views](https://komarev.com/ghpvc/?username=knowscratcher&color=brightgreen)
-
-# 中文
 [Jump to English Introduction](#english)
+# 中文
 # 你好， 我是 Know Scratcher! 👋
 我是一位開發者、學生，來自嘉義高中。
 
