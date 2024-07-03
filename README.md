@@ -17,6 +17,7 @@ Code time since 2024/6/16
 </a>
 
 ![views](https://komarev.com/ghpvc/?username=knowscratcher&color=brightgreen)
+
 [Jump to English Introduction](#english)
 # 中文
 # 你好， 我是 Know Scratcher! 👋
