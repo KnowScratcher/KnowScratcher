@@ -44,7 +44,7 @@ Code time since 2024/6/16
 
 # 其他<del>垃圾</del>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=knowscratcher&theme=holi-theme&ring=orange&fire=orange&locale=zh_Hant&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=knowscratcher&theme=holi-theme&ring=orange&fire=orange&locale=zh_Hant&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 ![my stats](https://github-readme-stats.vercel.app/api?username=knowscratcher&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&locale=zh-tw)
 ![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=KnowScratcher&layout=compact&langs_count=8&title_color=41b883&text_color=cccccc&icon_color=ff9900&bg_color=232f3e&hide_border=true&locale=zh-tw)
 ![my lang](https://github-readme-stats.vercel.app/api/top-langs/?username=knowscratcher&layout=compact&theme=vue-dark&hide_border=true&locale=zh-tw)
