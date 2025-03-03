@@ -66,8 +66,8 @@ I am a developer and a student from National Chiayi Senior High, Taiwan.
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=knowscratcher&theme=holi-theme&ring=orange&fire=orange)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=knowscratcher&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-<img src="https://wakatime.com/share/@3bed848b-ab70-463a-ade3-235f88526a6a/07e91a06-4f19-4bdd-a5d4-3f61039c6025.svg" alt="coding activity" height="350px" />
-<img src="https://wakatime.com/share/@3bed848b-ab70-463a-ade3-235f88526a6a/7a37ee91-0230-416a-91c8-69eebf91df1c.svg" alt="coding activity" height="350px" />
+<img src="https://wakatime.com/share/@3bed848b-ab70-463a-ade3-235f88526a6a/07e91a06-4f19-4bdd-a5d4-3f61039c6025.svg" alt="coding activity" width="45%" />
+<img src="https://wakatime.com/share/@3bed848b-ab70-463a-ade3-235f88526a6a/7a37ee91-0230-416a-91c8-69eebf91df1c.svg" alt="coding activity" width="45%" />
   
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yianlee2008?theme=dark&font=Cuprum&ext=activity)
 
