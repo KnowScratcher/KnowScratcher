@@ -1,17 +1,29 @@
-language select:
-- English (current)
-- [繁體中文](https://github.com/KnowScratcher/KnowScratcher/blob/main/README_zh-tw.md)
 
-Code time since 2024/6/16
 
-<a href="https://wakatime.com/@knowscratcher" target="_blank">
-  <img src="https://wakatime.com/badge/user/3bed848b-ab70-463a-ade3-235f88526a6a.svg?style=for-the-badge"
-    alt="Code time since 2024/6/16"
-    title="Code time since 2024/6/16"/>
-</a>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello%2C+I'm+Know+Scratcher;I'm+trying+to+make+the+world+better;Look+at+my+%22amazing%22+projects!)](https://git.io/typing-svg)
+    
+  <p>
+    Code time since 2024/6/16
+  </p>
+  
+  <a href="https://wakatime.com/@knowscratcher" target="_blank">
+    <img src="https://wakatime.com/badge/user/3bed848b-ab70-463a-ade3-235f88526a6a.svg?style=for-the-badge"
+      alt="Code time since 2024/6/16"
+      title="Code time since 2024/6/16"/>
+  </a>
+  
+  
+  ![views](https://komarev.com/ghpvc/?username=knowscratcher&color=brightgreen)
+</div>
 
-![views](https://komarev.com/ghpvc/?username=knowscratcher&color=brightgreen)
-
+<details>
+  <summary>language select:</summary>
+  
+  - English (current)
+  - [繁體中文](https://github.com/KnowScratcher/KnowScratcher/blob/main/README_zh-tw.md)
+</details>
 
 # Hi, I'm Know Scratcher! 👋
 I am a developer and a student from National Chiayi Senior High, Taiwan.
