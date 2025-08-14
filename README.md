@@ -13,15 +13,15 @@
       <tr align="center"><td><a href="https://wakatime.com/@knowscratcher" target="_blank">
     <img src="https://wakatime.com/badge/user/3bed848b-ab70-463a-ade3-235f88526a6a.svg?style=for-the-badge"
       alt="Code time since 2024/6/16"
-      title="Code time since 2024/6/16"/>
-  </a></td></tr>
+      title="Code time since 2024/6/16"/></a><br>+<br><img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=18037&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime" title="Hackatime"/>
+  </td></tr>
     </tbody>
   </table>
   
   ![views](https://komarev.com/ghpvc/?username=knowscratcher&color=brightgreen)
 
   ![my stats](https://github-readme-stats.vercel.app/api?username=knowscratcher&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  ![my lang](https://github-readme-stats.vercel.app/api/top-langs/?username=knowscratcher&layout=compact&theme=vue-dark&hide_border=true)
+  <!--![my lang](https://github-readme-stats.vercel.app/api/top-langs/?username=knowscratcher&layout=compact&theme=vue-dark&hide_border=true)-->
 </div>
 
 <details>
